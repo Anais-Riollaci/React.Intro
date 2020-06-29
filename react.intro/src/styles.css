@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+}
+
+div {
+  border: 1px solid black;
+}
+h1 {
+  text-align: center;
+}
+
+table {
+  border: 0.3px solid black;
+  width: 50%;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button {
+  margin-left: 10px;
+  color: white;
+  background-color: black;
+}
+
+form {
+  text-align: center;
+  margin: 30px;
+}
